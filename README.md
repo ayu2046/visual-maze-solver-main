@@ -1,8 +1,17 @@
 # Visual maze solver
 
-A maze solving visualizer, using the BFS algorithm.
+A maze solving visualizer, using the A* ,Dijkstra and BFS algorithm.
 
 ![GIF Preview](./public/preview.gif)
+
+# Screenshots
+
+![Screenshot 2025-01-10 141310](https://github.com/user-attachments/assets/46ee7ec1-60e4-468d-b133-04d13149f85c)
+![Screenshot 2025-01-10 141422](https://github.com/user-attachments/assets/5ae64569-2530-458c-82dc-3fd34873f7c5)
+![Screenshot 2025-01-10 141725](https://github.com/user-attachments/assets/e24dbc05-d9c0-44d5-a16f-21cef41dd111)
+![Screenshot 2025-01-10 141627](https://github.com/user-attachments/assets/ef2c23a8-55a0-46e1-9db5-5d1d030da2bb)
+![Screenshot 2025-01-10 141543](https://github.com/user-attachments/assets/194ed492-a7af-414e-b187-258cb8800108)
+
 
 ## Settings
 
